@@ -1,0 +1,29 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  text-align: center;
+  background-color: #ccffff;
+}
+
+#title {
+  text-shadow: 5px 5px 5px grey;
+}
+
+#description {
+font-size-adjust: auto;
+}
+
+#survey-form {
+
+}
+
+#name {
+
+}
+
+#number {
+
+}
+
+#email {
+
+}
